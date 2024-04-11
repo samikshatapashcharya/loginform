@@ -1,0 +1,47 @@
+
+.profile_container{
+    background-color: white;
+}
+
+
+.profile_container h3{
+    padding: 12px ;
+    font-size: 15px;
+    font-weight: 700;
+    
+}
+
+.row{
+    display: flex;
+    background-color:  rgb(247, 248, 249);
+    padding: 15px;
+    /* border: 1px green solid;; */
+}
+
+.Pic-container{
+    /* width:100px;
+    height:100px;
+    border-radius: 50%;
+    overflow: hidden; */
+} 
+  .Pic-container img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px black solid;
+  } 
+  .intr{
+    font-size: 12px;
+    background-color:  rgb(247, 248, 249); 
+    padding: 7px;
+  }
+
+  .bio{
+    text-align:left;
+    /* border:2px red solid; */
+    justify-content: left;
+    gap:2px;
+     }
+
+ 

@@ -1,0 +1,47 @@
+
+  .heading {
+    color: rgb(29, 34, 38);
+    margin-left: 15px;
+    vertical-align: end;
+    /* margin-top: 280px;  */
+  } 
+  .intro {
+    padding: 10px 6px;
+    color: rgb(175, 175, 175);
+    margin-left: 10px;
+    
+  }
+
+  .button_class{
+    margin:10px;
+    /* border: 1px red solid; */
+    margin-top: -10px;
+  }
+ .primary_btn {
+    padding: 10px 6px;
+      background-color: rgb(108,37,255);
+      color: white;
+      border-radius:5px;
+       /* margin-left:15px; */
+      align-items: center;
+      min-width: 90px !important;
+      justify-content: center;
+      cursor: pointer; 
+      border: 1px solid rgb(108,37,255); 
+      
+         }
+    .outline_btn {
+      padding: 10px 6px;
+      border: 1px solid rgb(206,186,251);
+      background-color: rgb(206,186,251);
+      color: black;
+      border-radius: 5px;
+   
+      font-weight: bold;
+      align-items: center;
+      margin-top: 10px;
+      min-width: 260px;
+      justify-content: center;
+         cursor: pointer;
+    }
+     

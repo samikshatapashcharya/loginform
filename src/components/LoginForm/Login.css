@@ -1,0 +1,54 @@
+.headingLine {
+  color: rgb(29, 34, 38);
+  margin-left: 12px;
+  margin-top: 20px;
+}
+
+.introduction {
+  color: rgb(175, 175, 175);
+  margin-left: 3px;
+  font-size: 12px;
+}
+
+.contact_form {
+  margin-top: 28px;
+}
+
+.form_control {
+  width: 100%;
+  position: relative;
+  color: rgb(108, 37, 255);
+}
+
+.form_control input {
+  padding: 0 18px;
+  height: 33px;
+  border-radius: 5px;
+  background-color: rgb(247, 248, 249);
+  width: 80%;
+  border: 1px solid rgb(175, 175, 175);
+}
+
+.form_control label {
+  font-size: 14px;
+  position: absolute;
+  top: -12px;
+  left: 8px;
+  background-color: rgb(247, 248, 249);
+  padding: 0 10px;
+}
+
+button {
+  margin-top: 20px;
+  margin-right: 17px;
+  padding: 9px;
+  width: 100%;
+  background-color: rgb(203, 203, 203);
+  border: 1px solid rgb(203, 203, 203);
+  border-radius: 5px;
+  font-weight: bold;
+  color: white;
+}
+
+
+
